@@ -76,7 +76,7 @@ This is a professional Quotation management software designed to streamline the 
 
 <img width="1911" height="1110" alt="image" src="https://github.com/user-attachments/assets/d00768fe-3663-48f6-adb8-af9edb7b8ce2" />
 
-<img width="1919" height="1193" alt="image" src="https://github.com/user-attachments/assets/54804b4a-6a36-44df-82c7-5299e18005a7" />
+
 
 <img width="1910" height="1093" alt="image" src="https://github.com/user-attachments/assets/e4f6020c-6d44-4d9f-b7c6-96e9136a48c8" />
 
