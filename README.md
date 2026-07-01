@@ -93,9 +93,6 @@ Use this repository as private source code, and publish installers to a separate
    - Repository secret: `PUBLIC_REPO_TOKEN` = GitHub PAT with `repo` access to the public downloads repository
 3. Push a version tag (for example `v5.3.0`) to trigger the release workflow.
 4. The workflow uploads Windows and macOS binaries to the public repository release with the same tag.
-5. Use website button links in this format:
-   - `https://github.com/<owner>/<public-download-repo>/releases/latest/download/QuotationGenerator_Setup_v5.2.exe`
-   - `https://github.com/<owner>/<public-download-repo>/releases/latest/download/QuotationGenerator-macOS.zip`
 
 Do not use GitHub Actions artifact URLs for end-user downloads, because they require authenticated access.
 
