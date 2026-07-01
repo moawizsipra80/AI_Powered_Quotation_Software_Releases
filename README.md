@@ -31,6 +31,7 @@ This is a professional Quotation management software designed to streamline the 
 - **PDF Generation**: High-quality PDF output using ReportLab.
 - **Offline AI assistant** : An offline ai assistant.Your personal ai assistant to assist you. You can ask anything from that like gpt and grmini.
 - **AI Agent**:An ai agent that simply takes command from you and a sample template and items (either you give hand written or printed document or write manually ) and then takes a sample of that doocument you want to generate and then analyze it's format and at the end generate it.
+- **Invite team**:You can invite a team and give access to your team mates 
   
 ## Technology Used:-
 
